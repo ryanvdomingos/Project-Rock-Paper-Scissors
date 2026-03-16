@@ -29,4 +29,4 @@ Este projeto foi um grande marco na compreensão de como o JavaScript interage c
 
 1. Faça o clone deste repositório:
    ```bash
-   git clone [https://github.com/](https://github.com/)[ryanvdomingos]/[Project-Rock-Paper-Scissors].git
+   git clone [https://github.com/](https://github.com/)ryanvdomingos/Project-Rock-Paper-Scissors.git
